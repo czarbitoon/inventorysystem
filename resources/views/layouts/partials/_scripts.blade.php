@@ -6,4 +6,4 @@
 <script src="{{asset('admin/dist/js/adminlte.min.js')}}"></script>
 
 
-@stack('scripts')
+@stack('scripts ')
